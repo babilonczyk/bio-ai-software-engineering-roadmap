@@ -2,6 +2,8 @@
 
 **Bio AI Software Engineer** – a developer who builds intelligent software, tools, and infrastructure that apply machine learning to biological data, accelerating breakthroughs in protein design, drug discovery, and molecular simulation.
 
+This roadmap is part of an ongoing journey documented at [**bioaisoftware.engineer**](https://bioaisoftware.engineer) – a platform dedicated to the future of AI-powered biotech development.
+
 ---
 
 ## Stage 1 – Foundations
@@ -64,3 +66,21 @@ Familiarity with bioinformatics tools like BLAST, FASTA, and sequence alignment
 ### Biopython
 Python tools for computational biology and bioinformatics  
 → [Biopython – Udemy](https://www.udemy.com/course/biopython/)
+
+---
+
+## 🌐 About This Project
+
+This roadmap is curated and actively maintained by [**bioaisoftware.engineer**](https://bioaisoftware.engineer) – a personal learning platform focused on the intersection of artificial intelligence, biology, and software engineering.
+
+Whether you're a:
+
+- **Molecular simulation engineer**
+- **Computational biologist interested in AI**
+- **AI engineer transitioning to biotech**
+- **Synthetic biology software developer**
+
+...this roadmap is designed to help guide your upskilling journey.
+
+Want to see how I’m progressing? Check out the live [**Roadmap**](https://bioaisoftware.engineer/roadmap) page.
+
