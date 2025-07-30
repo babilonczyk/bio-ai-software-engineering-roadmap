@@ -2,7 +2,7 @@
 
 Welcome to the Bio AI Software Engineer Roadmap - a no-fluff, hands-on guide for developers who want to build tools that matter in biology, AI, and biotech.
 
-This isn’t just a list of buzzwords. It’s a map I’m actively using, learning from, and shaping as I go. If you’re tired of shallow tutorials and want to do real things with Python, proteins, and machine learning – you’re in the right place.
+This isn’t just a list of buzzwords. It’s a map I’m actively using, learning from, and shaping as I go. If you’re tired of shallow tutorials and want to do real things with Python, proteins, and machine learning - you’re in the right place.
 
 This roadmap grows with me, and hopefully with you too.
 
@@ -29,7 +29,7 @@ This roadmap grows with me, and hopefully with you too.
   
 # Overview
 
-**Bio AI Software Engineer** – a developer who builds intelligent software, tools, and infrastructure that apply machine learning to biological data, accelerating breakthroughs in protein design, drug discovery, and molecular simulation.
+**Bio AI Software Engineer** - a developer who builds intelligent software, tools, and infrastructure that apply machine learning to biological data, accelerating breakthroughs in protein design, drug discovery, and molecular simulation.
 
 This roadmap is part of an ongoing journey documented at [**bioaisoftware.engineer**](https://bioaisoftware.engineer)
 
@@ -49,14 +49,14 @@ Master Python, the primary language for AI and bioinformatics
 ### APIs & Backend  
 Understand RESTful APIs, FastAPI, and backend development concepts  
 
-**Why?** Backend APIs are how you’ll serve ML models, integrate databases, and let other scientists or tools use your results – whether from notebooks or production systems.  
+**Why?** Backend APIs are how you’ll serve ML models, integrate databases, and let other scientists or tools use your results - whether from notebooks or production systems.  
 
 → [FastAPI Documentation](https://fastapi.tiangolo.com/)
 
 ### Data Analysis & Visualization  
 Learn NumPy, Pandas, and Matplotlib for data manipulation and visualization  
 
-**Why?** You’ll constantly be exploring biological datasets. Pandas and NumPy help you reshape the data, while Matplotlib lets you see what matters. Think of them as your daily lab tools – but for data.  
+**Why?** You’ll constantly be exploring biological datasets. Pandas and NumPy help you reshape the data, while Matplotlib lets you see what matters. Think of them as your daily lab tools - but for data.  
 
 → [NumPy Documentation](https://numpy.org/doc/)  
 → [Pandas Documentation](https://pandas.pydata.org/docs/)  
@@ -109,7 +109,7 @@ Basic command-line and shell scripting skills for bioinformatics pipelines
 ### Molecular Biology  
 Understand DNA, RNA, proteins, and gene expression  
 
-**Why?** These are the building blocks of life — and data. If you want to build software to interpret biology, this is your blueprint.  
+**Why?** These are the building blocks of life - and data. If you want to build software to interpret biology, this is your blueprint.  
 
 → [Molecular Biology and Biotechnology Principles – Udemy](https://www.udemy.com/course/molecular-biology-and-biotechnology-principles/)
 
@@ -118,14 +118,14 @@ Learn how proteins fold and function in 3D space
 
 **Why?** Structure determines function. Predicting or analyzing proteins is key to drug discovery, disease research, and biotech innovation.  
 
-→ [Learn Bioinformatics From Scratch – Udemy](https://www.udemy.com/course/learn-bioinformatics-from-scratch-theory-practical/)
+→ [Learn Bioinformatics From Scratch - Udemy](https://www.udemy.com/course/learn-bioinformatics-from-scratch-theory-practical/)
 
 ### Tools & Pipelines  
 Familiarity with bioinformatics tools like BLAST, FASTA, and sequence alignment  
 
-**Why?** Bioinformatics is full of legacy tools — learn how they work and how to wrap or extend them with modern code. You’ll be the bridge between old and new.  
+**Why?** Bioinformatics is full of legacy tools - learn how they work and how to wrap or extend them with modern code. You’ll be the bridge between old and new.  
 
-→ [Genomic Data Science Specialization – Coursera (JHU)](https://www.coursera.org/specializations/genomic-data-science)
+→ [Genomic Data Science Specialization - Coursera (JHU)](https://www.coursera.org/specializations/genomic-data-science)
 
 ### Biopython  
 Python tools for computational biology and bioinformatics  
@@ -136,7 +136,7 @@ Python tools for computational biology and bioinformatics
 
 ## About This Roadmap
 
-This roadmap is curated and actively maintained by [**bioaisoftware.engineer**](https://bioaisoftware.engineer) – a personal learning page focused on the intersection of artificial intelligence, biology, and software engineering.
+This roadmap is curated and actively maintained by [**bioaisoftware.engineer**](https://bioaisoftware.engineer) - a personal learning page focused on the intersection of artificial intelligence, biology, and software engineering.
 
 Whether you're a:
 
