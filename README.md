@@ -24,8 +24,8 @@ This roadmap grows with me, and hopefully with you too.
     - [Protein Structure](#protein-structure)  
     - [Tools & Pipelines](#tools--pipelines)  
     - [Biopython](#biopython)  
-- [About This Project](#-about-this-project)
-- [Contributing](#-contributing)
+- [About This Project](#about-this-project)
+- [Contributing](#contributing)
   
 # Overview
 
