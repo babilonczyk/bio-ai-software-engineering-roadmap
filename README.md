@@ -1,4 +1,4 @@
-# Bio AI Software Engineer Roadmap – Your path to innovation ✨
+# Bio AI Software Engineer Roadmap ✨
 
 Welcome to the Bio AI Software Engineer Roadmap - a no-fluff, hands-on guide for developers who want to build tools that matter in biology, AI, and biotech.
 
