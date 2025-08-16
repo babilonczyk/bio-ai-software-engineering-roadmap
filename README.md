@@ -1,8 +1,8 @@
 # 🧬 Bio AI Software Engineer Roadmap
 
-Welcome to the **Bio AI Software Engineer Roadmap** — a practical and evolving learning path for developers at the intersection of software engineering, biology, and AI.
+Welcome to the **Bio AI Software Engineer Roadmap** - a practical and evolving learning path for developers at the intersection of software engineering, biology, and AI.
 
-Whether you're an AI engineer entering biotech, a bioinformatician diving deeper into ML, or a developer curious about life science tools — this roadmap gives you the real-world skills to build impactful software in biology.
+Whether you're an AI engineer entering biotech, a bioinformatician diving deeper into ML, or a developer curious about life science tools - this roadmap gives you the real-world skills to build impactful software in biology.
 
 Built and maintained alongside the live roadmap at [**bioaisoftware.engineer**](https://bioaisoftware.engineer)
 
@@ -10,14 +10,14 @@ Built and maintained alongside the live roadmap at [**bioaisoftware.engineer**](
 
 ## 🧠 What is a Bio AI Software Engineer?
 
-A **Bio AI Software Engineer** builds intelligent tools, pipelines, and infrastructure for biological problems — like protein folding, variant prediction, drug discovery, or lab automation. This includes:
+A **Bio AI Software Engineer** builds intelligent tools, pipelines, and infrastructure for biological problems - like protein folding, variant prediction, drug discovery, or lab automation. This includes:
 
 - Writing production-ready Python and backend APIs
 - Applying ML/AI to biological sequences and images
 - Working with bioinformatics pipelines and HPC/cloud compute
 - Making research workflows reproducible, interpretable, and scalable
 
-They speak both the language of code and biology — and often translate between worlds.
+They speak both the language of code and biology - and often translate between worlds.
 
 ---
 
@@ -152,7 +152,7 @@ Jump into Stage 4+ if you already know biology but want to learn ML or engineeri
 - LLMs, RAG, FAISS, vector DBs
 - DVC, MLflow, RDKit, DeepChem
 
-And more — updated continuously.
+And more - updated continuously.
 
 ---
 
